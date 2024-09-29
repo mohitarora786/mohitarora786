@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-sage-12.vercel.app/](https://myportfolio-1cti.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://myportfolio-1cti.onrender.com/](https://myportfolio-1cti.onrender.com/)
 
 - 💬 Ask me about **MERN , LARAVEL , PHP , FILAMENT , PYTHON , JAVASCRIPT , DJANGO , VUEJS , ANGULAR , DATABASES , CAKEPHP**
 
