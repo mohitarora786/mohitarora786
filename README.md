@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-psi-sage-12.vercel.app/](https://myportfolio-1cti.onrender.com/)
 
-- 💬 Ask me about **MERN , LARAVEL , PHP , FILAMENT , PYTHON , JAVASCRIPT**
+- 💬 Ask me about **MERN , LARAVEL , PHP , FILAMENT , PYTHON , JAVASCRIPT , DJANGO , VUEJS , ANGULAR , DATABASES , CAKEPHP**
 
 - 📫 How to reach me **mohitarora321123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oH0Oo53cA6HK0KVBe2H2Y7H_Yl7y9o4C/view?usp=sharing](https://drive.google.com/file/d/1oH0Oo53cA6HK0KVBe2H2Y7H_Yl7y9o4C/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dsS1ABIc4VqL1LVgWwiIomVeXJZ2Afx5/view?usp=sharing](https://drive.google.com/file/d/1dsS1ABIc4VqL1LVgWwiIomVeXJZ2Afx5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
