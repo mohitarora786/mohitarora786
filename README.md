@@ -64,34 +64,52 @@
 
 <p align="center">
 
-<!-- Core Stack Highlight -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,php,laravel,nodejs,postgresql,mysql,mongodb,redis,docker,aws,git,linux,tailwind" />
+<!-- Languages -->
+<h4 align="center">💻 Programming Languages</h4>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,c,cpp" />
 
 <br><br>
 
-<!-- Existing Tools (UNCHANGED, just structured better) -->
+<!-- Frameworks -->
+<h4 align="center">⚙️ Frameworks & Libraries</h4>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,django,flask,express" />
+
+<br><br>
+
+<!-- Databases -->
+<h4 align="center">🗄️ Databases</h4>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+
+<br><br>
+
+<!-- DevOps & Tools -->
+<h4 align="center">🚀 DevOps & Tools</h4>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux,postman,firebase" />
+
+<br><br>
+
+<!-- Design & Others -->
+<h4 align="center">🎨 Design & Additional Tools</h4>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+<a href="https://canvasjs.com" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40"/></a>
+<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></a>
+
+<br><br>
+
+<!-- Existing (kept as you said, not deleting) -->
+<h4 align="center">🧩 Other Technologies</h4>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://canvasjs.com" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40"/></a>
-<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></a>
 <a href="https://codeigniter.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
 <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -101,4 +119,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohitarora786&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitarora786&theme=github-compact&hide_border=true" />
 </p>
