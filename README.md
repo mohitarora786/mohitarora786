@@ -120,7 +120,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohitarora786&theme=transparent&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitarora786&theme=github-compact&hide_border=true" />
-</p>
