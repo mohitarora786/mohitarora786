@@ -114,9 +114,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitarora786&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitarora786&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitarora786&layout=compact&theme=transparent&hide_border=true&langs_count=10&size_weight=0.2&count_weight=0.8" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohitarora786&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitarora786&theme=github-compact&hide_border=true" />
 </p>
