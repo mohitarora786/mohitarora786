@@ -59,7 +59,6 @@
   <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40"/>
 </a>
 </p>
----
 
 ### 🛠️ Languages and Tools
 
