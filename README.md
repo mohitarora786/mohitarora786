@@ -36,14 +36,14 @@
 ### 🌐 Connect with me
 
 <p align="center">
-<a href="https://twitter.com/mohitar05663111" target="blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-<a href="https://linkedin.com/in/mohit-arora-018600229" target="blank">
+<a href="https://www.linkedin.com/in/mohit-arora-018600229/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/life_racer_1725" target="blank">
+<a href="https://instagram.com/mohit_arora_1725" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://wa.me/917009965675" target="_blank">
+  <img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
 </a>
 </p>
 
