@@ -42,7 +42,7 @@
 <a href="https://instagram.com/mohit_arora_1725" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://wa.me/917009965675" target="_blank">
+<a href="https://wa.me/917009965674" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40"/>
 </a>
 </p>
