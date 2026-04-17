@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/mohitar05663111" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mohitar05663111?logo=twitter&style=for-the-badge" alt="mohitar05663111" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohit-arora-018600229/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
   <a href="https://myportfolio-1cti.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
