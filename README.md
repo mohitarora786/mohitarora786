@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <a href="https://wa.me/917009965675" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40"/>
 </a>
 </p>
 ---
