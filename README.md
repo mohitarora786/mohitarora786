@@ -21,16 +21,29 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Artsays [MERN STACK]**
-- 🌱 I’m currently learning **NEXT.JS**
-- 👨‍💻 All of my projects are available at:  
-  👉 **https://myportfolio-1cti.onrender.com/**
-- 💬 Ask me about  
-  **MERN , LARAVEL , PHP , FILAMENT , PYTHON , JAVASCRIPT , DJANGO , VUEJS , ANGULAR , DATABASES , CAKEPHP**
-- 📫 How to reach me: **mohitarora321123@gmail.com**
-- 📄 Resume:  
-  👉 **https://drive.google.com/file/d/1dsS1ABIc4VqL1LVgWwiIomVeXJZ2Afx5/view**
+- 🚀 Currently building a **scalable E-Commerce Platform** with production-level architecture (React / Next.js, FastAPI, PostgreSQL, Redis, Docker)
 
+- 🤖 Experienced in developing **AI-powered solutions** including:
+  - Resume parsing & ATS scoring systems  
+  - AI-based automation workflows  
+  - Smart filtering & recommendation engines  
+
+- 🏗️ Strong focus on **full-stack product development**, from system design → backend → frontend → deployment (VPS, Nginx, CI/CD)
+
+- 💻 Hands-on with modern tech stack:  
+  **React, Next.js, Python (FastAPI), Laravel, PostgreSQL, MongoDB, Redis, Docker, AWS**
+
+- ⚙️ Built real-world platforms like:
+  - AI-powered hiring systems  
+  - Admin dashboards & CMS platforms  
+  - E-commerce & service-based applications  
+
+- 🌱 Currently leveling up in **system design, scalability, and Next.js ecosystem**
+
+- 👨‍💻 Portfolio:  
+  👉 **https://drive.google.com/file/d/1l61dBfkPd062O3H9eaCk6wWtj771LDRe/view**
+
+- 📫 Reach me at: **mohitarora321123@gmail.com**
 ---
 
 ### 🌐 Connect with me
