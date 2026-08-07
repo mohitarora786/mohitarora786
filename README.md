@@ -84,10 +84,4 @@ Explore the repositories to see projects involving full-stack development, backe
 
 ---
 
-## 🌐 Portfolio
-
-[View Portfolio & Projects](https://drive.google.com/file/d/1l61dBfkPd062O3H9eaCk6wWtj771LDRe/view)
-
----
-
 ### Build. Automate. Scale.
